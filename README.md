@@ -11,7 +11,7 @@
  - 政治的、宗教的または他者を煽動する目的での利用
 
 ## 使い方
-1. 右のボタンからGoogleColabノートブックにアクセス [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15tgKwhED_i3yLNZ_yF5kT7w1jXtiKs3H/view?usp=sharing) 
+1. 右のボタンからGoogleColabノートブックにアクセス [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15tgKwhED_i3yLNZ_yF5kT7w1jXtiKs3H) 
 2. ノートブック最上部の説明に従い操作して下さい。
 
 ## 利用規約・免責事項
