@@ -1,6 +1,5 @@
 import numpy as np
 import torch
-import matplotlib
 from hparams import create_hparams
 from model import Tacotron2
 from train import load_model
