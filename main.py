@@ -1,6 +1,3 @@
-import sys
-sys.path.append('waveglow/')
-import IPython.display as ipd
 import numpy as np
 import torch
 from hparams import create_hparams
