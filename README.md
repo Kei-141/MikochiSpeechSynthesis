@@ -11,7 +11,7 @@
  - 政治的、宗教的または他者を煽動する目的での利用
 
 ## 使い方
-1. 下記リンクのGoogleColabノートブックにアクセス
+1. 右のボタンからGoogleColabノートブックにアクセス [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/peaceiris/emoji-ime-dictionary/blob/master/generate.ipynb) 
 2. ノートブック最上部の説明に従い操作して下さい。
 
 ## 利用規約・免責事項
