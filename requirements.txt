@@ -1,9 +1,0 @@
-matplotlib==2.2.0
-tensorflow==1.15.2
-numpy==1.16.0
-inflect==0.2.5
-librosa==0.6.2
-Unidecode==1.0.22
-imgaug==0.2.5
-numba==0.48
-pillow
