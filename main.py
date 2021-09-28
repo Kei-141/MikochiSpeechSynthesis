@@ -33,7 +33,9 @@ class MikochiSpeechSynthesis:
         denoiser = Denoiser(waveglow)
         return waveglow
     
-    def generate_voice(self, text):
+    def generate_voice(self, text, seed):
+        np.random.seed(seed)
+        torch.manual_seed(seed)
         sequence = np.array(text_to_sequence(text, ['basic_cleaners']))[None, :]
         sequence = torch.autograd.Variable(
             torch.from_numpy(sequence)).cuda().long()
